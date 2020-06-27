@@ -1,4 +1,4 @@
-示例项目applets
+**示例项目applets**
 
 1、github创建项目applets（必须同时创建readme）
 
@@ -8,13 +8,9 @@
 
 4、通过gitbook editor打开applets，编辑内容，并保存
 
+
+
 方法一：
-
-1、github创建项目 applets（必须同时创建readme）
-
-2、clone至gitbook存储目录的Import文件夹下
-
-3、通过gitbook editor打开，编辑保存
 
 4、gitbook build
 
