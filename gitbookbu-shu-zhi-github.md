@@ -12,5 +12,5 @@
 
 7、提交至gh-pages分支
 
-2、[https://gdyu.github.io/applets/](https://gdyu.github.io/applets/)
+8、[https://gdyu.github.io/applets/](https://gdyu.github.io/applets/)
 
