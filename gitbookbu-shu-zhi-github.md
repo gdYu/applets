@@ -1,3 +1,15 @@
+示例项目applets
+
+1、github创建项目applets（必须同时创建readme）
+
+2、gitbook editor随便创建一个项目，项目会默认放置Import文件夹下
+
+3、将github上项目clone至本地Import文件夹下
+
+4、通过gitbook editor打开applets，编辑内容，并保存
+
+方法一：
+
 1、github创建项目 applets（必须同时创建readme）
 
 2、clone至gitbook存储目录的Import文件夹下
@@ -14,5 +26,7 @@
 
 8、[https://gdyu.github.io/applets/](https://gdyu.github.io/applets/)
 
+方法二：
 
+1、
 
