@@ -44,5 +44,9 @@
 
 问题：
 
-1、菜单无法跳转
+1、菜单无法跳转。
+
+E:\workCodes\book\Import\applets\\_book\gitbook\theme.js
+
+搜索`if(m)for(n.handler，将m修改为false`
 
