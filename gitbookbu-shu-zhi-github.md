@@ -8,11 +8,19 @@
 
 4、通过gitbook editor打开applets，编辑内容，并保存
 
-
-
 方法一：
 
-4、gitbook build
+1、gitbook editor中内容编辑完毕，在cmd窗口中执行gitbook build
+
+2、git bash中add 、commit 、 push
+
+3、拉取新的分支 gh-pages
+
+4、将gitbook build生成的\_book中内容拷贝置gh-pages分支根目录下，删除其它文件
+
+5、add 、commit、push
+
+6、打开页面[https://gdyu.github.io/applets/](https://gdyu.github.io/applets/)
 
 5、保存并提交代码
 
