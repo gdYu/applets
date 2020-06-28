@@ -20,7 +20,25 @@
 
 5、add 、commit、push
 
-6、打开页面[https://gdyu.github.io/applets/](https://gdyu.github.io/applets/)
+6、打开页面[https://gdyu.github.io/applets/](https://gdyu.github.io/applets/) 即可访问
+
+方法二：
+
+1、本地applets文件夹下执行npm init，生成package.json文件，添加npm命令配置
+
+"scripts":{ 
+
+  "build":"gitbook build ./ ./docs"
+
+},
+
+2、在applets文件夹下创建docs文件夹
+
+3、执行npm run build
+
+4、add 、commit、push
+
+5、在github上applets项目的Settings中，将github pages的source由gh-pages branch修改为master branch/doocs folder
 
 5、保存并提交代码
 
