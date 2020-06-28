@@ -50,3 +50,5 @@ E:\workCodes\book\Import\applets\\_book\gitbook\theme.js
 
 搜索`if(m)for(n.handler，将m修改为false`
 
+2、[https://gdyu.github.io/applets/](https://gdyu.github.io/applets/) 访问404了，需等待几分钟
+
