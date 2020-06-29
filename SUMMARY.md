@@ -1,6 +1,7 @@
 # Summary
 
 * [概要](README.md)
-* [GitBook部署至Github](gitbookbu-shu-zhi-github.md)
-* [Gitbook Markdown相关](gitbook-markdownxiang-guan.md)
+* [GitBook相关](gitbookxiang-guan.md)
+  * [GitBook部署至Github](gitbookbu-shu-zhi-github.md)
+  * [GitBook Editor](gitbook-editor.md)
 
