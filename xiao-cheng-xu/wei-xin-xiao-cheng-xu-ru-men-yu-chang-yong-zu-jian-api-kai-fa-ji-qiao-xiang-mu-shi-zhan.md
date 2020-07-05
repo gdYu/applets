@@ -17,4 +17,6 @@
     - https://zhuanlan.zhihu.com/oldtimes
 + 微信小程序122100版本分享、二维码功能解析 
     - https://zhuanlan.zhihu.com/p/24498136
-    
+
+## 微信小程序开发工具
++ 断点调试 F10跳过所有断点；F8下一个断点   
