@@ -56,7 +56,8 @@
     - 首页背景色设置
         * 当前页最外层view设置固定高度和100%都不可取。（固定高度，存在滚动条就有问题）
         * 小程序最外层有一个page标签，添加样式height:100%;background-color:颜色
-    - app.json中window属性中添加"navigationBarBackgroundColor":颜色
+    - 顶部导航颜色设置（查看小程序api文档）
+        * app.json中window属性中添加"navigationBarBackgroundColor":颜色
 
 
 
