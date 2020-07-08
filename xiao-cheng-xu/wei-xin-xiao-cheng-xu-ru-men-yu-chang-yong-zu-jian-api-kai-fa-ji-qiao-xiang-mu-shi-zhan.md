@@ -52,6 +52,12 @@
         * 文本不用text标签也能显示
         * 小程序中，只有用text标签包裹的文字，才能长按选中
 
++ 首页添加全屏背景色
+    - 首页背景色设置
+        * 当前页最外层view设置固定高度和100%都不可取。（固定高度，存在滚动条就有问题）
+        * 小程序最外层有一个page标签，添加样式height:100%;background-color:颜色
+    - app.json中window属性中添加"navigationBarBackgroundColor":颜色
+
 
 
 
