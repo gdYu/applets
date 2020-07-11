@@ -72,7 +72,7 @@
     - 顶部导航颜色设置（查看小程序api文档）
         * app.json中window属性中添加"navigationBarBackgroundColor":颜色
 
-
++ Swiper组件
 
 
 
