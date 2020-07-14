@@ -78,6 +78,8 @@
 + Swiper组件
 + 组件
     - wx:for wx:for-item
++ 赋值
+    - this.setData({key:value})
 
 
 
