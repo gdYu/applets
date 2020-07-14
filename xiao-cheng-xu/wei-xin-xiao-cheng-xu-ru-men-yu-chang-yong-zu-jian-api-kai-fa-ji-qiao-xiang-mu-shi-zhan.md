@@ -76,7 +76,8 @@
         无需外层window
 
 + Swiper组件
-
++ 组件
+    - wx:for wx:for-item
 
 
 

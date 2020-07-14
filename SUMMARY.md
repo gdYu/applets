@@ -10,4 +10,5 @@
   * [生命周期](angularjs/sheng-ming-zhou-qi.md)
 * [Vue](vue.md)
   * [Vue生命周期](vue/vuesheng-ming-zhou-qi.md)
+* [阅读笔记](yue-du-bi-ji.md)
 
