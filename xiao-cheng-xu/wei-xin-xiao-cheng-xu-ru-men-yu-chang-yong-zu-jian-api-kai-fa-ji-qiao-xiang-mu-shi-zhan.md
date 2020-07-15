@@ -84,8 +84,9 @@
 + 事件
     - 编写小程序时，出现事件触发两次的bug，需完全关闭小程序编写软件，再次打开可修复
     
-+ 赋值
-    - this.setData({key:value})
++ js操作
+    - data赋值。this.setData({key:value})
+    - 页面跳转。wx.navigateTo("")。路径为具体页面路径，无后缀
 
 
 
