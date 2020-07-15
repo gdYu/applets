@@ -86,7 +86,7 @@
     
 + js操作
     - data赋值。this.setData({key:value})
-    - 页面跳转。wx.navigateTo("")。路径为具体页面路径，无后缀
+    - 页面跳转。wx.navigateTo({url:""})。路径为具体页面路径，无后缀
 
 
 
