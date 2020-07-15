@@ -81,6 +81,9 @@
         * wx:for 
         * wx:for-item 
         * wx:for-index
++ 事件
+    - 编写小程序时，出现事件触发两次的bug，需完全关闭小程序编写软件，再次打开可修复
+    
 + 赋值
     - this.setData({key:value})
 
