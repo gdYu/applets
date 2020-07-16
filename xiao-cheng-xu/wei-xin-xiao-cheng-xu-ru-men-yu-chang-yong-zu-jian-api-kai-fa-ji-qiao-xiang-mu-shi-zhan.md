@@ -87,6 +87,9 @@
 + js操作
     - data赋值。this.setData({key:value})
     - 页面跳转。wx.navigateTo({url:""})。路径为具体页面路径，无后缀
+    - navigateTo/redirectTo/switchTo区别
+        * navigateTo 页面可返回，原页面只是被hide
+        * redirecTo 页面被关闭
 
 
 + 原码、反码、补码
