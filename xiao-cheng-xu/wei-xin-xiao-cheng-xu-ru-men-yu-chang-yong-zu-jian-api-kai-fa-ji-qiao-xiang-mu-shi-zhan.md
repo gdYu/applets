@@ -111,7 +111,8 @@
         * 页面wxss需@import 模板的样式，否则不生效
 
 + 页面传参
-    - data="{{...item}}"  // ...表示展开对象
+    - data="\{\{...item\}\}"  // ...表示展开对象
+    - data-postId 自定义属性，取值e.currentTarget.dataset.postId
 
 
 
