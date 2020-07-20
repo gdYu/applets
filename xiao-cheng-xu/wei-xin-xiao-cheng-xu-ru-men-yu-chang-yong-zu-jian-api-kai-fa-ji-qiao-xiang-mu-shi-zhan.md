@@ -96,6 +96,12 @@
     - navigateTo/redirectTo/switchTo区别
         * navigateTo 页面可返回，原页面只是被hide
         * redirecTo 页面被关闭
+    - 模拟数据设置
+        * module.exports ={}
+        * require 相对路径引入
+    - template使用
+        * template文件wxml wxss
+        * 页面引入import绝对路径，template标签 is 对应 name 
 
 
 + 原码、反码、补码
