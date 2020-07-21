@@ -112,7 +112,7 @@
 
 + 页面传参
     - data=...item  // ...表示展开对象[需用花括号包裹]
-    - data-postId 自定义属性，取值e.currentTarget.dataset.postId
+    - data-post-id 自定义属性，取值e.currentTarget.dataset.postId
 
 
 
