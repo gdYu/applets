@@ -21,7 +21,7 @@
   * 进阶
   * 网站
   * [需求](xu-qiu.md)
-  * 总结性文档
+  * [总结性文档](zong-jie-xing-wen-dang.md)
   * [CSS技术点](cssji-zhu-dian.md)
   * [JavaScript基础知识](javascriptji-chu-zhi-shi.md)
   * [JS技术点](jsji-zhu-dian.md)

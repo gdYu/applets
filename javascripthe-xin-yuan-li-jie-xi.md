@@ -36,10 +36,25 @@
         - delete 其实只能删除一种引用，即对象的成员（Property）。
     
     + var x=y=100
-        - let x // 声明变量 x。不可在赋值之前读。(x is not defined)
+        - let x // 声明变量 x。不可在赋值之前读。赋值之前读取会抛异常x is not defined。访问它之所以会抛出异常，不是因为它不存在，而是因为这个 x 标识符被拒绝访问了
+            * **关联知识点**：
+                + 在 ECMAScript 6 之后出现的let/const变量在“声明（和创建）一个标识符”这件事上，与var并没有什么不同，只是 JavaScript 拒绝访问还没有绑定值的let/const标识符而已。
+                + var 称为“变量声明（varDelcs）”，而“let/const”则称为“词法声明（lexicalDecls）”。JavaScript 环境在创建一个“变量名（varName in varDecls）”后，会为它初始化绑定一个 undefined 值，而”词法名字（lexicalNames）”在创建之后就没有这项待遇，所以它们在缺省情况下就是“还没有绑定值”的标识符。
         - var x // 声明变量 x。在赋值之前可读取到 undefined 值。
     
+    + 标识符直接赋值和声明变量赋值
+    ```
+        var a = 100;
+        x = 200;
+        a和x都是global的属性
+        > Object.getOwnPropertyDescriptor(global, 'a');
+        { value: 100, writable: true, enumerable: true, configurable: false }
+        
+        > Object.getOwnPropertyDescriptor(global, 'x');
+        { value: 200, writable: true, enumerable: true, configurable: true }
+    ```
     
+    + dsad
     
     
     
