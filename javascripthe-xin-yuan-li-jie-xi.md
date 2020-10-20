@@ -55,7 +55,16 @@
     ```
     
     + Object.freeze(obj); // obj对象不允许再添加属性
-    
+    + JS中with()的用法
+        - with 语句 为一个或一组语句指定默认对象。 用法：with (<对象>) <语句>; 
+        ```
+        x = Math.cos(3 * Math.PI) + Math.sin(Math.LN10); 
+        y = Math.tan(14 * Math.E); 
+        
+        with (Math) { 
+           x = cos(3 * PI) + sin(LN10);       y = tan(14 * E); 
+        } 
+        ```
     
     
     
