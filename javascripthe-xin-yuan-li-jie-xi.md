@@ -54,7 +54,7 @@
         { value: 200, writable: true, enumerable: true, configurable: true }
     ```
     
-    + dsad
+    + Object.freeze(obj); // obj对象不允许再添加属性
     
     
     
